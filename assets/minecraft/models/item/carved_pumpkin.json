@@ -134,21 +134,9 @@
     },
     {
       "predicate": {
-        "custom_model_data": 23
-      },
-      "model": "minecraft:item/ben"
-    },
-    {
-      "predicate": {
         "custom_model_data": 24
       },
       "model": "minecraft:item/goober"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 25
-      },
-      "model": "minecraft:item/kai"
     },
     {
       "predicate": {
@@ -170,21 +158,9 @@
     },
     {
       "predicate": {
-        "custom_model_data": 29
-      },
-      "model": "minecraft:item/phillp"
-    },
-    {
-      "predicate": {
         "custom_model_data": 30
       },
       "model": "minecraft:item/fedora"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 31
-      },
-      "model": "minecraft:item/ryan"
     },
     {
       "predicate": {
@@ -200,21 +176,9 @@
     },
     {
       "predicate": {
-        "custom_model_data": 34
-      },
-      "model": "minecraft:hats/ben2"
-    },
-    {
-      "predicate": {
         "custom_model_data": 36
       },
       "model": "minecraft:hats/technohat"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 37
-      },
-      "model": "minecraft:item/sofie"
     }
   ]
 }
