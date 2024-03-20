@@ -1,0 +1,180 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "gun:minigun"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/ben2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/beret"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/cavalier"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/doug"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/fedora"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/flat_cap"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/hat_1"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/hat_2"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/hat_3"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/hat_4"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/mickey"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/nice_one"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/technocrown"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/top_hat"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/bald"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/ben"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/hattexture"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/bucket"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/gibus"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/goober"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/hardhat"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/kai"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/minigun"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/warden"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/pp"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/phillip"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:mushroom"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/propeler"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:custom/lightsaber_green"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/racoon"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/respirator"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/ryan"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/sofie"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/mc_soul"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/techno"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/techno"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/tinfoil"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:custom/treehat/oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:custom/treehat/oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:custom/treehat/azalea_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hats/ushanka"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:hattextures/yankee"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:custom/lightsabergreen"
+    }
+  ]
+}
