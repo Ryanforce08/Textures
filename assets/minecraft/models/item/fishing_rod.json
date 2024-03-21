@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+},
+    "overrides": [
+        {"predicate": {"cast": 1},"model": "item/fishing_rod_cast"},
+
+        {"predicate": {"custom_model_data":7151000},"model": "gen:item/item/fishing_rods/stone_fishing_rod"},
+        {"predicate": {"custom_model_data":7151000,"cast": 1},"model": "gen:item/item/fishing_rods/stone_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151001},"model": "gen:item/item/fishing_rods/iron_fishing_rod"},
+        {"predicate": {"custom_model_data":7151001,"cast": 1},"model": "gen:item/item/fishing_rods/iron_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151002},"model": "gen:item/item/fishing_rods/golden_fishing_rod"},
+        {"predicate": {"custom_model_data":7151002,"cast": 1},"model": "gen:item/item/fishing_rods/golden_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151003},"model": "gen:item/item/fishing_rods/diamond_fishing_rod"},
+        {"predicate": {"custom_model_data":7151003,"cast": 1},"model": "gen:item/item/fishing_rods/diamond_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151004},"model": "gen:item/item/fishing_rods/netherite_fishing_rod"},
+        {"predicate": {"custom_model_data":7151004,"cast": 1},"model": "gen:item/item/fishing_rods/netherite_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151005},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod"},
+        {"predicate": {"custom_model_data":7151005,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod_cast"},
+        {"predicate": {"custom_model_data":7151100},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/default_trimmed"},
+        {"predicate": {"custom_model_data":7151100,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/default_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151101},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/iron_trimmed"},
+        {"predicate": {"custom_model_data":7151101,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/iron_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151102},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/copper_trimmed"},
+        {"predicate": {"custom_model_data":7151102,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/copper_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151103},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/gold_trimmed"},
+        {"predicate": {"custom_model_data":7151103,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/gold_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151104},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/lapis_trimmed"},
+        {"predicate": {"custom_model_data":7151104,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/lapis_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151105},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/emerald_trimmed"},
+        {"predicate": {"custom_model_data":7151105,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/emerald_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151106},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/diamond_trimmed"},
+        {"predicate": {"custom_model_data":7151106,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/diamond_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151107},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/netherite_trimmed"},
+        {"predicate": {"custom_model_data":7151107,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/netherite_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151108},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/redstone_trimmed"},
+        {"predicate": {"custom_model_data":7151108,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/redstone_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151109},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/quartz_trimmed"},
+        {"predicate": {"custom_model_data":7151109,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/quartz_trimmed_cast"},
+        {"predicate": {"custom_model_data":7151110},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/amethyst_trimmed"},
+        {"predicate": {"custom_model_data":7151110,"cast": 1},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/amethyst_trimmed_cast"}
+    ]
+}

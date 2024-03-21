@@ -1,0 +1,9 @@
+{
+    "parent": "block/chain_command_block",
+    "overrides": [
+        {"predicate":{"custom_model_data":600000},"model":"gen:cmd/item/copper_coin"},
+        {"predicate":{"custom_model_data":600001},"model":"gen:cmd/item/silver_coin"},
+        {"predicate":{"custom_model_data":600002},"model":"gen:cmd/item/gold_coin"},
+        {"predicate":{"custom_model_data":600003},"model":"gen:cmd/item/platinum_coin"}
+    ]
+}

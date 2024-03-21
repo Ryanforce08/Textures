@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_scrap"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":7151004},"model": "gen:item/item/fishing_rods/netherite_fishing_rod"},
+        {"predicate": {"custom_model_data":7151005},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod"},
+        {"predicate": {"custom_model_data":7151100},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/default_trimmed"},
+        {"predicate": {"custom_model_data":7151101},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/iron_trimmed"},
+        {"predicate": {"custom_model_data":7151102},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/copper_trimmed"},
+        {"predicate": {"custom_model_data":7151103},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/gold_trimmed"},
+        {"predicate": {"custom_model_data":7151104},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/lapis_trimmed"},
+        {"predicate": {"custom_model_data":7151105},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/emerald_trimmed"},
+        {"predicate": {"custom_model_data":7151106},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/diamond_trimmed"},
+        {"predicate": {"custom_model_data":7151107},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/netherite_trimmed"},
+        {"predicate": {"custom_model_data":7151108},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/redstone_trimmed"},
+        {"predicate": {"custom_model_data":7151109},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/quartz_trimmed"},
+        {"predicate": {"custom_model_data":7151110},"model": "gen:item/item/fishing_rods/obsidian_fishing_rod/amethyst_trimmed"}
+    ]
+}

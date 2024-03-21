@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/llama/template_dead_4",
+	"textures": {
+	  "texture": "gen:item/entity/llama/white_hurt"
+	}
+  }

@@ -1,0 +1,48 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_horse_armor"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":800000},"model":"gen:brew/block/potion"},
+        {"predicate":{"custom_model_data":800001},"model":"gen:brew/block/potion_1"},
+        {"predicate":{"custom_model_data":800002},"model":"gen:brew/block/potion_2"},
+        {"predicate":{"custom_model_data":800003},"model":"gen:brew/block/potion_3"},
+
+        {"predicate":{"custom_model_data":7050000},"model":"gen:item/entity/sheep/hurt"},
+        {"predicate":{"custom_model_data":7050001},"model":"gen:item/entity/sheep/hurt_1"},
+        {"predicate":{"custom_model_data":7050002},"model":"gen:item/entity/sheep/hurt_2"},
+        {"predicate":{"custom_model_data":7050003},"model":"gen:item/entity/sheep/hurt_3"},
+        {"predicate":{"custom_model_data":7050004},"model":"gen:item/entity/sheep/hurt_4"},
+        {"predicate":{"custom_model_data":7050005},"model":"gen:item/entity/sheep/still"},
+        {"predicate":{"custom_model_data":7050006},"model":"gen:item/entity/sheep/walk"},
+        {"predicate":{"custom_model_data":7050100},"model":"gen:item/entity/wolf/wolf_tame/hurt"},
+        {"predicate":{"custom_model_data":7050101},"model":"gen:item/entity/wolf/wolf_tame/hurt_1"},
+        {"predicate":{"custom_model_data":7050102},"model":"gen:item/entity/wolf/wolf_tame/hurt_2"},
+        {"predicate":{"custom_model_data":7050103},"model":"gen:item/entity/wolf/wolf_tame/hurt_3"},
+        {"predicate":{"custom_model_data":7050104},"model":"gen:item/entity/wolf/wolf_tame/hurt_4"},
+        {"predicate":{"custom_model_data":7050105},"model":"gen:item/entity/wolf/wolf_tame/still"},
+        {"predicate":{"custom_model_data":7050106},"model":"gen:item/entity/wolf/wolf_tame/walk"},
+        {"predicate":{"custom_model_data":7050107},"model":"gen:item/entity/wolf/wolf_tame/sit"},
+        {"predicate":{"custom_model_data":7050110},"model":"gen:item/entity/wolf/wolf_tame_begging/hurt"},
+        {"predicate":{"custom_model_data":7050111},"model":"gen:item/entity/wolf/wolf_tame_begging/hurt_1"},
+        {"predicate":{"custom_model_data":7050112},"model":"gen:item/entity/wolf/wolf_tame_begging/hurt_2"},
+        {"predicate":{"custom_model_data":7050113},"model":"gen:item/entity/wolf/wolf_tame_begging/hurt_3"},
+        {"predicate":{"custom_model_data":7050114},"model":"gen:item/entity/wolf/wolf_tame_begging/hurt_4"},
+        {"predicate":{"custom_model_data":7050115},"model":"gen:item/entity/wolf/wolf_tame_begging/still"},
+        {"predicate":{"custom_model_data":7050116},"model":"gen:item/entity/wolf/wolf_tame_begging/walk"},
+        {"predicate":{"custom_model_data":7050117},"model":"gen:item/entity/wolf/wolf_tame_begging/sit"},
+
+        {"predicate":{"custom_model_data":7150000},"model":"gen:item/block/oak_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150001},"model":"gen:item/block/spruce_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150002},"model":"gen:item/block/birch_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150003},"model":"gen:item/block/jungle_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150004},"model":"gen:item/block/acacia_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150005},"model":"gen:item/block/dark_oak_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150006},"model":"gen:item/block/crimson_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150007},"model":"gen:item/block/warped_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150008},"model":"gen:item/block/mangrove_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150009},"model":"gen:item/block/bamboo_agrarians_workbench"},
+        {"predicate":{"custom_model_data":7150010},"model":"gen:item/block/cherry_agrarians_workbench"}
+    ]
+}

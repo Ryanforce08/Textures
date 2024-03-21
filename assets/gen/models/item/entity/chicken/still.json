@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/chicken/template_stopped",
+	"textures": {
+	  "texture": "gen:item/entity/chicken/body"
+	}
+  }

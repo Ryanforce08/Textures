@@ -1,0 +1,6 @@
+{
+	"providers": [
+		{"type": "bitmap","file": "gen:item/gui/recipes/manuals.png","ascent": 64,"height": 64,"chars": ["\uE000"]},
+		{"type": "bitmap","file": "gen:item/gui/recipes/fishing_rods.png","ascent": 64,"height": 64,"chars": ["\uE001"]}
+	]
+}

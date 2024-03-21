@@ -1,0 +1,12 @@
+{
+	"parent":"gen:_null_/block/_template_/cube",
+	"textures": {
+		"north": "gen:fish/block/angler_workbench_front",
+		"east": "gen:fish/block/angler_workbench_side",
+		"south": "gen:fish/block/angler_workbench_front",
+		"west": "gen:fish/block/angler_workbench_side",
+		"up": "gen:fish/block/angler_workbench_top",
+		"down": "minecraft:block/prismarine_bricks",
+		"particle": "gen:fish/block/angler_workbench_front"
+	}
+}

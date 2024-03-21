@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "gen:magic/item/flame_wand_0"
+    }
+}

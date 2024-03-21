@@ -1,0 +1,41 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cod"
+    },
+    "overrides": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        {"predicate":{"custom_model_data":91200000},"model":"gen:fish/item/fish/cod/rare/size_1"},
+        {"predicate":{"custom_model_data":91200001},"model":"gen:fish/item/fish/cod/rare/size_2"},
+        {"predicate":{"custom_model_data":91200002},"model":"gen:fish/item/fish/cod/rare/size_3"},
+        {"predicate":{"custom_model_data":91200003},"model":"gen:fish/item/fish/cod/atlantic/size_1"},
+        {"predicate":{"custom_model_data":91200004},"model":"gen:fish/item/fish/cod/atlantic/size_2"},
+        {"predicate":{"custom_model_data":91200005},"model":"gen:fish/item/fish/cod/atlantic/size_3"},
+        {"predicate":{"custom_model_data":91200006},"model":"gen:fish/item/fish/cod/pacific/size_1"},
+        {"predicate":{"custom_model_data":91200007},"model":"gen:fish/item/fish/cod/pacific/size_2"},
+        {"predicate":{"custom_model_data":91200008},"model":"gen:fish/item/fish/cod/pacific/size_3"}
+
+    ]
+}

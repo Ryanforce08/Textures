@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/goat/template_dead_2",
+	"textures": {
+	  "texture": "gen:item/entity/goat/body_hurt"
+	}
+  }

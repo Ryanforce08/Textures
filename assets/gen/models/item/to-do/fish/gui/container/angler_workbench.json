@@ -1,0 +1,6 @@
+{
+	"parent":"gen:_null_/gui/_template_/container",
+	"textures":{
+		"texture":"gen:fish/gui/container/angler_workbench"
+	}
+}

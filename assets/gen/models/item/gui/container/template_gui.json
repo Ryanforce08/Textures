@@ -1,0 +1,31 @@
+{
+	"parent": "gen:item/blank",
+	"textures": {
+		"gui": "#texture"
+	},
+	"elements": [
+		{
+			"name": "gui",
+			"from": [-13.875, -13, 8],
+			"to": [30.125, 28.75, -8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [34.88229, 60.05685, -8]},
+			"faces": {
+				"south": {"uv": [0, 0, 11, 10.4375], "texture": "#gui"}
+			}
+		},
+		{
+			"name": "book",
+			"from": [-11.875, 15.75, 8],
+			"to": [-7.875, 19.75, -8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [34.88229, 60.05685, -8]},
+			"faces": {
+				"south": {"uv": [0, 10.5, 1.25, 11.75], "texture": "#gui"}
+			}
+		}
+	],
+	"gui_light":"front",
+	"display": {
+		"gui": {"rotation": [0, 0, -22.5],"translation": [0, 0, -80],"scale": [4, 4, 4]}
+
+	}
+}

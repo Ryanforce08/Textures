@@ -1,0 +1,8 @@
+{
+	"parent": "gen:_null_/block/_template_/plant_2",
+	"textures": {
+		"texture": "gen:farm/block/corn_stalk_stage3_top",
+	  	"texture_1": "gen:farm/block/corn_stalk_stage3_bottom"
+
+	}
+  }

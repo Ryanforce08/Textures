@@ -1,0 +1,9 @@
+{"textures":{"gui":"custom/_null_/gui/crafter"},
+"gui_light":"front",
+"elements":[{"from":[-13.875,-12.75,8],
+	"to":[29.875,28.75,-8.000000000000002],
+	"faces":{"south":{"uv":[0,0,10.9375,10.375],
+		"texture":"#gui"}},
+		"rotation":{"origin":[34.88229388139666,60.05684671087477,-8.000000000000002],
+			"axis":"z","angle":22.5}}],
+			"display":{"gui":{"rotation":[0,0,-22.5],"scale":[4,4,4],"translation":[0,0,-80]}}}

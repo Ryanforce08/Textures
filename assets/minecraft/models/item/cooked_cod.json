@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_cod"
+    },
+    "overrides": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        {"predicate":{"custom_model_data":91200000},"model":"gen:fish/item/fish/cod/cooked/size_1"},
+        {"predicate":{"custom_model_data":91200001},"model":"gen:fish/item/fish/cod/cooked/size_2"},
+        {"predicate":{"custom_model_data":91200002},"model":"gen:fish/item/fish/cod/cooked/size_3"}
+
+    ]
+}

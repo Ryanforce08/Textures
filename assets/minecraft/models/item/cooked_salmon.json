@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_salmon"
+    },
+    "overrides": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        {"predicate":{"custom_model_data":91200000},"model":"gen:fish/item/fish/salmon/cooked/size_1"},
+        {"predicate":{"custom_model_data":91200001},"model":"gen:fish/item/fish/salmon/cooked/size_2"},
+        {"predicate":{"custom_model_data":91200002},"model":"gen:fish/item/fish/salmon/cooked/size_3"}
+
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/wolf/template_sitting",
+	"textures": {
+	  "texture": "gen:item/entity/wolf/wolf_tame"
+	}
+  }

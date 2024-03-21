@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        {"predicate":{"broken":1},"model":"item/broken_elytra"},
+        {"predicate":{"custom_model_data":400000},"model":"gen:elyt/item/elytra/leather"},
+        {"predicate":{"custom_model_data":400000,"broken":1},"model":"gen:elyt/item/elytra/leather_broken"},
+        {"predicate":{"custom_model_data":400001},"model":"gen:elyt/item/elytra/chainmail"},
+        {"predicate":{"custom_model_data":400001,"broken":1},"model":"gen:elyt/item/elytra/chainmail_broken"},
+        {"predicate":{"custom_model_data":400002},"model":"gen:elyt/item/elytra/iron"},
+        {"predicate":{"custom_model_data":400002,"broken":1},"model":"gen:elyt/item/elytra/iron_broken"},
+        {"predicate":{"custom_model_data":400003},"model":"gen:elyt/item/elytra/golden"},
+        {"predicate":{"custom_model_data":400003,"broken":1},"model":"gen:elyt/item/elytra/golden_broken"},
+        {"predicate":{"custom_model_data":400004},"model":"gen:elyt/item/elytra/diamond"},
+        {"predicate":{"custom_model_data":400004,"broken":1},"model":"gen:elyt/item/elytra/diamond_broken"},
+        {"predicate":{"custom_model_data":400005},"model":"gen:elyt/item/elytra/netherite"},
+        {"predicate":{"custom_model_data":400005,"broken":1},"model":"gen:elyt/item/elytra/netherite_broken"}
+    ]
+}

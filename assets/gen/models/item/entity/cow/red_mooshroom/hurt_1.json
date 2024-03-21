@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/cow/template_dead_1",
+	"textures": {
+	  "texture": "gen:item/entity/cow/red_mooshroom_hurt"
+	}
+  }

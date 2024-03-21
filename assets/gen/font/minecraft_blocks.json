@@ -1,0 +1,24 @@
+{
+	"providers": [
+		{"type": "bitmap","file": "minecraft:block/blackstone.png","ascent": 8,"height": 8,"chars": ["\uE000"]},
+		{"type": "bitmap","file": "minecraft:block/cobbled_deepslate.png","ascent": 8,"height": 8,"chars": ["\uE001"]},
+		{"type": "bitmap","file": "minecraft:block/cobblestone.png","ascent": 8,"height": 8,"chars": ["\uE002"]},
+		{"type": "bitmap","file": "minecraft:block/pumpkin_side.png","ascent": 8,"height": 8,"chars": ["\uE003"]},
+		{"type": "bitmap","file": "minecraft:block/lily_pad_with_color.png","ascent": 8,"height": 8,"chars": ["\uE004"]},
+		{"type": "bitmap","file": "minecraft:block/tripwire_hook.png","ascent": 8,"height": 8,"chars": ["\uE005"]},
+		{"type": "bitmap","file": "minecraft:block/moss_block.png","ascent": 8,"height": 8,"chars": ["\uE006"]},
+		{"type": "bitmap","file": "minecraft:block/small_dripleaf_top.png","ascent": 8,"height": 8,"chars": ["\uE007"]},
+		{"type": "bitmap","file": "minecraft:block/oak_log_top.png","ascent": 8,"height": 8,"chars": ["\uE008"]},
+		{"type": "bitmap","file": "minecraft:block/azalea_plant.png","ascent": 8,"height": 8,"chars": ["\uE009"]},
+		{"type": "bitmap","file": "minecraft:block/flowering_azalea_plant.png","ascent": 8,"height": 8,"chars": ["\uE010"]},
+		{"type": "bitmap","file": "minecraft:block/big_dripleaf_top.png","ascent": 8,"height": 8,"chars": ["\uE011"]},
+		{"type": "bitmap","file": "minecraft:block/spore_blossom_block.png","ascent": 8,"height": 8,"chars": ["\uE012"]},
+		{"type": "bitmap","file": "minecraft:block/azalea_leaves.png","ascent": 8,"height": 8,"chars": ["\uE013"]},
+		{"type": "bitmap","file": "minecraft:block/flowering_azalea_leaves.png","ascent": 8,"height": 8,"chars": ["\uE014"]},
+		{"type": "bitmap","file": "minecraft:block/dead_bush.png","ascent": 8,"height": 8,"chars": ["\uE015"]},
+		{"type": "bitmap","file": "minecraft:block/acacia_leaves_with_color.png","ascent": 8,"height": 8,"chars": ["\uE016"]},
+		{"type": "bitmap","file": "minecraft:block/acacia_log_top.png","ascent": 8,"height": 8,"chars": ["\uE017"]},
+		{"type": "bitmap","file": "minecraft:block/acacia_sapling.png","ascent": 8,"height": 8,"chars": ["\uE018"]}
+
+	]
+}

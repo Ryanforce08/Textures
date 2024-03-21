@@ -1,0 +1,7 @@
+{
+	"parent": "gen:item/entity/sheep/template_dead_3",
+	"textures": {
+	  "texture": "gen:item/entity/sheep/body_hurt",
+	  "texture_armor": "gen:item/entity/sheep/sheep_fur_hurt"
+	}
+  }

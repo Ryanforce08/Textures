@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    "overrides": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        {"predicate":{"custom_model_data":91100000},"model":"gen:farm/item/wheat_bread"},
+        {"predicate":{"custom_model_data":91100001},"model":"gen:farm/item/corn_bread"},
+        {"predicate":{"custom_model_data":91100002},"model":"gen:farm/item/rice_bread"}
+
+    ]
+}

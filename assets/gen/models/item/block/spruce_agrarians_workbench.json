@@ -1,0 +1,9 @@
+{
+	"parent": "gen:item/block/template_agrarians_workbench",
+	"textures": {
+	  "log_top": "block/spruce_log_top",
+	  "planks": "block/spruce_planks",
+	  "stripped_log": "block/stripped_spruce_log",
+	  "log": "block/spruce_log"
+	}
+  }

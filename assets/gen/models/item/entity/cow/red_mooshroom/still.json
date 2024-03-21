@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/cow/template_stopped",
+	"textures": {
+	  "texture": "gen:item/entity/cow/red_mooshroom"
+	}
+  }

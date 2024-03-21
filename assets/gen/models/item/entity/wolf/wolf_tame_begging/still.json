@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/wolf/template_stopped_begging",
+	"textures": {
+	  "texture": "gen:item/entity/wolf/wolf_tame"
+	}
+  }

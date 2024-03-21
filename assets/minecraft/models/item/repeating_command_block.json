@@ -1,0 +1,7 @@
+{
+    "parent": "block/repeating_command_block",
+    "overrides": [
+        {"predicate":{"custom_model_data":91100000},"model":"gen:farm/item/cooked_bacon"},
+        {"predicate":{"custom_model_data":91100001},"model":"gen:farm/item/cooked_egg"}
+    ]
+}

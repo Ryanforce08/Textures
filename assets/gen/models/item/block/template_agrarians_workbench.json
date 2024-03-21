@@ -1,0 +1,105 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "#log_top",
+		"1": "#planks",
+		"2": "#stripped_log",
+		"3": "#log",
+		"4": "gen:item/block/crafting_table_overlay_top",
+		"5": "gen:item/block/crafting_table_overlay",
+		"6": "gen:item/block/crafting_table_overlay_bottom",
+		"particle": "#log"
+	},
+	"elements": [
+		{
+			"name": "slab",
+			"from": [-0.5, 9.275, -0.5],
+			"to": [16.5, 16.25, 16.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 6], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "slab_overlay",
+			"from": [-0.51, 9.26, -0.51],
+			"to": [16.51, 16.26, 16.51],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#5", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 6], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#5", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6", "tintindex": 0}
+			}
+		},
+		{
+			"name": "block",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "ne",
+			"from": [-0.25, -0.075, 14],
+			"to": [2, 10.25, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"east": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"west": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"down": {"uv": [14, 14, 16, 16], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "se",
+			"from": [14, -0.075, 14],
+			"to": [16.25, 10.25, 16.25],
+			"faces": {
+				"north": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"south": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "sw",
+			"from": [14, -0.075, -0.25],
+			"to": [16.25, 10.25, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"east": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"west": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"down": {"uv": [14, 14, 16, 16], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "nw",
+			"from": [-0.25, -0.075, -0.25],
+			"to": [2, 10.25, 2],
+			"faces": {
+				"north": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"south": {"uv": [14, 6, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 6, 2, 16], "texture": "#2"},
+				"down": {"uv": [14, 0, 16, 2], "texture": "#2"}
+			}
+		}
+	]
+}

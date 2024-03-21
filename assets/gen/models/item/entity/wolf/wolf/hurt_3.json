@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/wolf/template_dead_3",
+	"textures": {
+	  "texture": "gen:item/entity/wolf/wolf_hurt"
+	}
+  }

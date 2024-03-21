@@ -1,0 +1,6 @@
+{
+	"parent": "gen:_null_/block/_template_/plant",
+	"textures": {
+	  "texture": "gen:farm/block/cucumbers_stage0"
+	}
+  }

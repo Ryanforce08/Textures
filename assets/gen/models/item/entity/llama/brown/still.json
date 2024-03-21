@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/llama/template_stopped",
+	"textures": {
+	  "texture": "gen:item/entity/llama/brown"
+	}
+  }

@@ -1,0 +1,6 @@
+{
+	"parent": "gen:_null_/block/template_plant_1_top",
+	"textures": {
+	  "texture": "gen:farm/experimental/block/block_001_stage4_top"
+	}
+  }

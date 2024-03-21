@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/salmon"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":91200000},"model":"gen:fish/item/fish/salmon/rare/size_1"},
+        {"predicate":{"custom_model_data":91200001},"model":"gen:fish/item/fish/salmon/rare/size_2"},
+        {"predicate":{"custom_model_data":91200002},"model":"gen:fish/item/fish/salmon/rare/size_3"},
+        {"predicate":{"custom_model_data":91200003},"model":"gen:fish/item/fish/salmon/sockeye/size_1"},
+        {"predicate":{"custom_model_data":91200004},"model":"gen:fish/item/fish/salmon/sockeye/size_2"},
+        {"predicate":{"custom_model_data":91200005},"model":"gen:fish/item/fish/salmon/sockeye/size_3"},
+        {"predicate":{"custom_model_data":91200006},"model":"gen:fish/item/fish/salmon/pink/size_1"},
+        {"predicate":{"custom_model_data":91200007},"model":"gen:fish/item/fish/salmon/pink/size_2"},
+        {"predicate":{"custom_model_data":91200008},"model":"gen:fish/item/fish/salmon/pink/size_3"},
+        {"predicate":{"custom_model_data":91200009},"model":"gen:fish/item/fish/salmon/atlantic/size_1"},
+        {"predicate":{"custom_model_data":91200010},"model":"gen:fish/item/fish/salmon/atlantic/size_2"},
+        {"predicate":{"custom_model_data":91200011},"model":"gen:fish/item/fish/salmon/atlantic/size_3"}
+
+    ]
+}

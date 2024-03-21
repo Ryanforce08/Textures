@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{"type": "bitmap","file": "gen:item/item/manuals/anglers.png","ascent": 8,"height": 8,"chars": ["\uE000"]},
+		{"type": "bitmap","file": "gen:item/item/manuals/botanists.png","ascent": 8,"height": 8,"chars": ["\uE001"]},
+		{"type": "bitmap","file": "gen:item/item/manuals/ranchers.png","ascent": 8,"height": 8,"chars": ["\uE002"]},
+		{"type": "bitmap","file": "gen:item/font/icon/stone_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE003"]},
+		{"type": "bitmap","file": "gen:item/font/icon/iron_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE004"]},
+		{"type": "bitmap","file": "gen:item/font/icon/golden_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE005"]},
+		{"type": "bitmap","file": "gen:item/font/icon/diamond_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE006"]},
+		{"type": "bitmap","file": "gen:item/font/icon/netherite_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE007"]},
+		{"type": "bitmap","file": "gen:item/font/icon/obsidian_fishing_rod.png","ascent": 8,"height": 8,"chars": ["\uE008"]}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent":"gen:_null_/gui/_template_/crafter",
+	"textures":{
+		"texture":"gen:farm/gui/container/countertop"
+	}
+}

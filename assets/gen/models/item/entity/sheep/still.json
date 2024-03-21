@@ -1,0 +1,7 @@
+{
+	"parent": "gen:item/entity/sheep/template_stopped",
+	"textures": {
+	  "texture": "gen:item/entity/sheep/body",
+	  "texture_armor": "gen:item/entity/sheep/sheep_fur"
+	}
+  }

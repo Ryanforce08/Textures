@@ -1,0 +1,50 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":300000},"model":"gen:ghast/item/ghast_spawn_egg"},
+        {"predicate":{"custom_model_data":300001},"model":"gen:ghast/item/ghast_egg"},
+
+        {"predicate":{"custom_model_data":600000},"model":"gen:cmd/item/padlock/copper"},
+        {"predicate":{"custom_model_data":600001},"model":"gen:cmd/entity/padlock/copper_0"},
+        {"predicate":{"custom_model_data":600002},"model":"gen:cmd/entity/padlock/copper_1"},
+        {"predicate":{"custom_model_data":600003},"model":"gen:cmd/item/padlock/iron"},
+        {"predicate":{"custom_model_data":600004},"model":"gen:cmd/entity/padlock/iron_0"},
+        {"predicate":{"custom_model_data":600005},"model":"gen:cmd/entity/padlock/iron_1"},
+        {"predicate":{"custom_model_data":600006},"model":"gen:cmd/item/padlock/gold"},
+        {"predicate":{"custom_model_data":600007},"model":"gen:cmd/entity/padlock/gold_0"},
+        {"predicate":{"custom_model_data":600008},"model":"gen:cmd/entity/padlock/gold_1"},
+        {"predicate":{"custom_model_data":600009},"model":"gen:cmd/item/padlock/creative"},
+        {"predicate":{"custom_model_data":600010},"model":"gen:cmd/entity/padlock/creative_0"},
+        {"predicate":{"custom_model_data":600011},"model":"gen:cmd/entity/padlock/creative_1"},
+
+        {"predicate":{"custom_model_data":1400000},"model":"gen:_null_/item/music_disc_test_00"},
+        {"predicate":{"custom_model_data":1400001},"model":"gen:_null_/item/music_disc_test_01"},
+        {"predicate":{"custom_model_data":1400002},"model":"gen:_null_/item/music_disc_test_02"},
+        {"predicate":{"custom_model_data":1400003},"model":"gen:_null_/item/music_disc_test_03"},
+        {"predicate":{"custom_model_data":1400004},"model":"gen:_null_/item/music_disc_test_04"},
+        {"predicate":{"custom_model_data":1400005},"model":"gen:_null_/item/music_disc_test_05"},
+        {"predicate":{"custom_model_data":1400006},"model":"gen:_null_/item/music_disc_test_06"},
+        {"predicate":{"custom_model_data":1400007},"model":"gen:_null_/item/music_disc_test_07"},
+        {"predicate":{"custom_model_data":1400008},"model":"gen:_null_/item/music_disc_test_08"},
+        {"predicate":{"custom_model_data":1400009},"model":"gen:_null_/item/music_disc_test_09"},
+        {"predicate":{"custom_model_data":1400010},"model":"gen:_null_/item/music_disc_test_10"},
+        {"predicate":{"custom_model_data":1400011},"model":"gen:_null_/item/music_disc_test_11"},
+        {"predicate":{"custom_model_data":1400012},"model":"gen:_null_/item/music_disc_test_12"},
+        {"predicate":{"custom_model_data":1400013},"model":"gen:_null_/item/music_disc_test_13"},
+        {"predicate":{"custom_model_data":1400014},"model":"gen:_null_/item/music_disc_test_14"},
+        {"predicate":{"custom_model_data":1400015},"model":"gen:_null_/item/music_disc_test_15"},
+        {"predicate":{"custom_model_data":1400016},"model":"gen:_null_/item/music_disc_test_16"},
+        {"predicate":{"custom_model_data":1400017},"model":"gen:_null_/item/music_disc_test_17"},
+        {"predicate":{"custom_model_data":1400018},"model":"gen:_null_/item/music_disc_test_18"},
+        {"predicate":{"custom_model_data":1400019},"model":"gen:_null_/item/music_disc_test_19"},
+        {"predicate":{"custom_model_data":1400020},"model":"gen:_null_/item/music_disc_test_20"}
+    ]
+}
+
+
+
+
+

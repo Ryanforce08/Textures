@@ -1,0 +1,19 @@
+{
+	"parent": "gen:item/gui/container/template_gui",
+	"textures": {
+		"gui": "#texture"
+	},
+	"elements": [
+		{
+			"name": "gui",
+			"from": [-16, -15, 16],
+			"to": [28, 26.75, 0],
+			"faces": {
+				"south": {"uv": [0, 0, 11, 10.4375], "texture": "#gui"}
+			}
+		}
+	],
+	"display": {
+		"gui": {"translation": [-64, -13, -80],"scale": [4, 4, 4]}
+	}
+}

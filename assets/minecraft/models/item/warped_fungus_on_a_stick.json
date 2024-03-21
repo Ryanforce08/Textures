@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":300000},"model":"gen:block/item/tiny_beacon/_"},
+        {"predicate":{"custom_model_data":300001},"model":"gen:block/item/tiny_beacon/speed"},
+        {"predicate":{"custom_model_data":300002},"model":"gen:block/item/tiny_beacon/haste"},
+        {"predicate":{"custom_model_data":300003},"model":"gen:block/item/tiny_beacon/resistance"},
+        {"predicate":{"custom_model_data":300004},"model":"gen:block/item/tiny_beacon/jump_boost"},
+        {"predicate":{"custom_model_data":300005},"model":"gen:block/item/tiny_beacon/strength"},
+        {"predicate":{"custom_model_data":300006},"model":"gen:block/item/tiny_beacon/regeneration"},
+        {"predicate":{"custom_model_data":300007},"model":"gen:block/item/tiny_jukebox/_"},
+        {"predicate":{"custom_model_data":300008},"model":"gen:block/item/tiny_jukebox/c418/13"},
+        {"predicate":{"custom_model_data":300009},"model":"gen:block/item/tiny_jukebox/c418/cat"},
+        {"predicate":{"custom_model_data":300010},"model":"gen:block/item/tiny_jukebox/c418/blocks"},
+        {"predicate":{"custom_model_data":300011},"model":"gen:block/item/tiny_jukebox/c418/chirp"},
+        {"predicate":{"custom_model_data":300012},"model":"gen:block/item/tiny_jukebox/c418/far"},
+        {"predicate":{"custom_model_data":300013},"model":"gen:block/item/tiny_jukebox/c418/mall"},
+        {"predicate":{"custom_model_data":300014},"model":"gen:block/item/tiny_jukebox/c418/mellohi"},
+        {"predicate":{"custom_model_data":300015},"model":"gen:block/item/tiny_jukebox/c418/stal"},
+        {"predicate":{"custom_model_data":300016},"model":"gen:block/item/tiny_jukebox/c418/strad"},
+        {"predicate":{"custom_model_data":300017},"model":"gen:block/item/tiny_jukebox/c418/ward"},
+        {"predicate":{"custom_model_data":300018},"model":"gen:block/item/tiny_jukebox/c418/11"},
+        {"predicate":{"custom_model_data":300019},"model":"gen:block/item/tiny_jukebox/c418/wait"},
+        {"predicate":{"custom_model_data":300020},"model":"gen:block/item/tiny_jukebox/raine/otherside"},
+        {"predicate":{"custom_model_data":300021},"model":"gen:block/item/tiny_jukebox/raine/pigstep"},
+        {"predicate":{"custom_model_data":300022},"model":"gen:block/item/tiny_note_block"},
+
+        {"predicate":{"custom_model_data":7150000},"model":"gen:item/item/manuals/ranchers"},
+        {"predicate":{"custom_model_data":7151000},"model":"gen:item/item/manuals/anglers"},
+        {"predicate":{"custom_model_data":7152000},"model":"gen:item/item/manuals/botanists"},
+
+
+
+
+
+
+
+
+        
+        {"predicate":{"custom_model_data":91100000},"model":"gen:farm/item/knife"},
+        {"predicate":{"custom_model_data":91120000},"model":"gen:farm/experimental/item/item_001d"},
+        {"predicate":{"custom_model_data":91200001},"model":"gen:fish/item/crate/note_bottle"},
+        {"predicate":{"custom_model_data":91200002},"model":"gen:fish/item/crate/lockbox/wooden"}
+    ]
+}

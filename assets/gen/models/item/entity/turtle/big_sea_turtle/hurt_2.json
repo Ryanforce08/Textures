@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/turtle/template_dead_2",
+	"textures": {
+	  "texture": "gen:item/entity/turtle/big_sea_turtle_hurt"
+	}
+  }

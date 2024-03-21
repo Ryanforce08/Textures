@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":800000},"model":"gen:brew/item/settings_book"},
+        {"predicate":{"custom_model_data":1100000},"model":"gen:farm/item/settings_book"},
+
+        {"predicate":{"custom_model_data":7000000},"model":"gen:item/item/settings_book/dev"},
+
+        {"predicate":{"custom_model_data":7050000},"model":"gen:item/item/settings_book/gen_baby"},
+        
+        {"predicate":{"custom_model_data":7150000},"model":"gen:item/item/settings_book/gen_agrex"}
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "gen:cmd/entity/_template_/padlock_1",
+	"textures": {
+	  "texture": "gen:cmd/entity/padlock/copper"
+	}
+  }

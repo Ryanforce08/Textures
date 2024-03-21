@@ -1,0 +1,7 @@
+{
+	"parent": "gen:farm/block/template_countertop_crafter",
+	"textures": {
+	  "planks": "block/spruce_planks",
+	  "log": "block/spruce_log"
+	}
+  }

@@ -1,0 +1,22 @@
+{
+    "parent": "gen:_null_/block/_template_/block",
+	"textures": {
+		"0": "gen:brew/block/potion",
+		"particle": "gen:brew/block/potion"
+	},
+    "elements": [
+		{
+			"from": [2, 12, 2],
+			"to": [14, 12, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0","tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0","tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0","tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0","tintindex": 0},
+				"up": {"uv": [2, 2, 14, 14], "rotation": 180, "texture": "#0","tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0","tintindex": 0}
+			}
+		}
+	]
+}

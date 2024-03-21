@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "gen:api/item/cooking_pan"
+    }
+}

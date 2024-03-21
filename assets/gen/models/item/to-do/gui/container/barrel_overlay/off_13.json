@@ -1,0 +1,24 @@
+{
+	"parent": "gen:_null_/gui/_template_/container_overlay",
+	"textures": {
+		"gui": "gen:farm/gui/container/barrel_overlay"
+	},
+	"elements": [
+		{
+			"name": "gui",
+			"from": [-16, -15, 16],
+			"to": [28, 26.75, 0],
+			"faces": {
+				"south": {"uv": [0, 0, 11, 10.4375], "texture": "#gui"}
+			}
+		},
+		{
+			"name": "meter",
+			"from": [22.25, 9.6, 16],
+			"to": [26, 13.1, 0],
+			"faces": {
+				"south": {"uv": [11, 2.3125, 11.9375, 3.1875], "texture": "#gui"}
+			}
+		}
+	]
+}

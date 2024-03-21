@@ -1,0 +1,236 @@
+{
+    "dev.pack.name":"Data API",
+    "Data API":"Data API",
+    "morecreativetabs.data_api":"Data API",
+    "dev.item.super_food": "Super Food",
+    "dev.item.developer_tool": "Dev Tool",
+    "dev.text.advancement.requirements":"Requirements",
+    "dev.text.error.warning":"WARNING:",
+    "dev.text.error.warning2":"is not installed",
+    "dev.text.error.warning3":"may not work properly without it",
+    "dev.text.error.warning4":"If this is a mistake please reload again and this message should go away",
+    "dev.text.fix":"Repaired data",
+    "dev.text.item_disabled":"This item has been disabled",
+    "dev.text.link":"⫘[click link]⫘",
+    "dev.text.placed_block":"Changed the block at",
+    "dev.text.placed_block2":"",
+    "dev.text.placed_block_fail":"You cannot place this block within 10 meters of another",
+    "dev.text.settings.close_book":"[Close]",
+    "dev.text.settings.close_book.description":"Delete Book",
+    "dev.text.settings.close_book.space":"                  ",
+    "dev.text.settings.misc":"[Misc.]",
+    "dev.text.settings.misc_settings":"Misc Settings:",
+    "dev.text.settings.toggle_type":"Toggle Type:",
+    "dev.text.settings.turn_page":"Turned Page",
+    "dev.text.settings.update":"Updated Settings",
+    "dev.text.settings.version":"[Version]",
+    "dev.text.settings.version.fail":"Please go to 'Data API' settings to change version",
+    "dev.text.trim.trimmed":"*Trimmed",
+
+    "gen.assets.name":"Gen Assets",
+    "Gen Assets":"Gen Assets",
+
+    "gen.agrex.pack.name":"Agriculture Expanded",
+    "morecreativetabs.agriculture_expanded":"Agriculture Expanded",
+    "gen.agrex.pack.description":"Still calling it Pam's Harvest Craft now?",
+    "gen.agrex.gui.recipe.manuals":"Manuals",
+    "gen.agrex.block.agrarians_workbench":"Agrarian's Workbench",
+    "gen.agrex.item.anglers_manual":"Angler's Manual",
+    "gen.agrex.item.anglers_manual.description":"Tracks the fish you've caught",
+    "gen.agrex.item.anglers_manual.pages.fish":"Fish",
+    "gen.agrex.item.anglers_manual.pages.junk":"Junk",
+    "gen.agrex.item.anglers_manual.pages.treasure":"Treasure",
+    "gen.agrex.item.botanists_manual":"Botanist's Manual",
+    "gen.agrex.item.botanists_manual.description":"Tracks the plants you've grown",
+    "gen.agrex.item.diamond_fishing_rod":"Diamond Fishing Rod",
+    "gen.agrex.item.golden_fishing_rod":"Golden Fishing Rod",
+    "gen.agrex.item.iron_fishing_rod":"Iron Fishing Rod",
+    "gen.agrex.item.netherite_fishing_rod":"Netherite Fishing Rod",
+    "gen.agrex.item.obsidian_fishing_rod":"Obsidian Fishing Rod",
+    "gen.agrex.item.ranchers_manual":"Rancher's Manual",
+    "gen.agrex.item.ranchers_manual.description":"Tracks the mobs you've breeded",
+    "gen.agrex.item.ranchers_manual.breeding_task":"Breed",
+    "gen.agrex.item.stone_fishing_rod":"Stone Fishing Rod",
+    "gen.agrex.text.gameplay.fishing.baited_hook":"Hook has been baited",
+    "gen.agrex.text.gene.attendance":"Attendance",
+    "gen.agrex.text.gene.dishwashing":"Dishwashing",
+    "gen.agrex.text.gene.driving_skill":"Driving Skill",
+    "gen.agrex.text.gene.radicalness":"Radicalness",
+    "gen.agrex.text.gene.spellcasting":"Spellcasting",
+    "gen.agrex.text.genes.maximum":"MAX",
+    "gen.agrex.text.genes.mutation_rate":"MR",
+    "gen.agrex.text.genes.unknown_gene":"Unknown Gene",
+    "gen.agrex.text.settings.biome":"[Override Biomes]",
+    "gen.agrex.text.settings.biome.description":"Biome:",
+    "gen.agrex.text.settings.breeding":"[Breeding]",
+    "gen.agrex.text.settings.breeding_settings":"Breeding Settings:",
+    "gen.agrex.text.settings.breeding.af_gene":"[AF Dog Traits]",
+    "gen.agrex.text.settings.breeding.af_gene.description":"Based on a joke I made awhile ago",
+    "gen.agrex.text.settings.fishing":"[Fishing]",
+    "gen.agrex.text.settings.fishing_settings":"Fishing Settings:",
+    "gen.agrex.text.settings.fishing.hazards":"[Hazards]",
+    "gen.agrex.text.settings.fishing.hazards_warning":"Hazards: Enabled",
+    "gen.agrex.text.settings.misc.template":"[Require Template]",
+    "gen.agrex.text.settings.misc.template.description":"Makes tools in this datapack require the ",
+    "gen.agrex.text.settings.title":"Agri Expanded",
+
+    "gen.baby.pack.name":"Better Babies",
+    "morecreativetabs.better_babies":"Better Babies",
+
+    "gen.hat.pack.name":"Villager Hats",
+    "morecreativetabs.villager_hats":"Villager Hats",
+    "gen.hat.item.armorer_hat": "Armorer's Hat",
+    "gen.hat.item.butcher_hat": "Butcher's Hat",
+    "gen.hat.item.cartographer_hat": "Cartographer's Hat",
+    "gen.hat.item.desert_hat": "Desert Hat",
+    "gen.hat.item.farmer_hat": "Farmer's Hat",
+    "gen.hat.item.fisherman_hat": "Fisherman's Hat",
+    "gen.hat.item.fletcher_hat": "Fletcher's Hat",
+    "gen.hat.item.librarian_hat": "Librarian's Hat",
+    "gen.hat.item.savanna_hat": "Savanna Hat",
+    "gen.hat.item.shepherd_hat": "Shepherd's Hat",
+    "gen.hat.item.snow_hat": "Snow Hat",
+    "gen.hat.item.swamp_hat": "Swamp Hat",
+    "gen.hat.item.weaponsmith_hat": "Weaponsmith's Hat",
+
+    "Block Reader":"Block Reader",
+    "gen.view.pack.name":"Block Reader",
+
+    "Installed Datapacks":"Installed Datapacks",
+    "minecraft.gui.recipebook":"Recipes",
+    "minecraft.text.foliage":"Foliage",
+    "minecraft.text.legacy":"Legacy",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "brew.namespace":"Gen's Better Brewing",
+    "brew.item.lingering_potion.absorption": "Lingering Potion of Absorption",
+    "brew.item.lingering_potion.bad_luck": "Lingering Potion of Bad Luck",
+    "brew.item.lingering_potion.bad_omen": "Lingering Potion of Bad Omens",
+    "brew.item.lingering_potion.blindness": "Lingering Potion of Blindness",
+    "brew.item.lingering_potion.conduit_power": "Lingering Potion of Conduit Power",
+    "brew.item.lingering_potion.dolphin_grace": "Lingering Potion of Dolphin's Grace",
+    "brew.item.lingering_potion.failed": "Failed Lingering Potion",
+    "brew.item.lingering_potion.glowing": "Lingering Potion of Glowing",
+    "brew.item.lingering_potion.haste": "Lingering Potion of Haste",
+    "brew.item.lingering_potion.health_boost": "Lingering Potion of Health Boosting",
+    "brew.item.lingering_potion.hunger": "Lingering Potion of Hunger",
+    "brew.item.lingering_potion.levitation": "Lingering Potion of Levitation",
+    "brew.item.lingering_potion.mining_fatigue": "Lingering Potion of Mining Fatigue",
+    "brew.item.lingering_potion.nausea": "Lingering Potion of Nausea",
+    "brew.item.lingering_potion.resistance": "Lingering Potion of Resistance",
+    "brew.item.lingering_potion.saturation": "Lingering Potion of Saturation",
+    "brew.item.lingering_potion.hero_of_the_village": "Lingering Potion of Village Heroism",
+    "brew.item.lingering_potion.wither": "Lingering Potion of Withering",
+    "brew.item.modified_lingering_potion": "Modified Lingering Potion",
+    "brew.item.modified_potion": "Modified Potion",
+    "brew.item.modified_splash_potion": "Modified Splash Potion",
+    "brew.item.potion.absorption": "Potion of Absorption",
+    "brew.item.potion.bad_luck": "Potion of Bad Luck",
+    "brew.item.potion.bad_omen": "Potion of Bad Omens",
+    "brew.item.potion.blindness": "Potion of Blindness",
+    "brew.item.potion.conduit_power": "Potion of Conduit Power",
+    "brew.item.potion.dolphin_grace": "Potion of Dolphin's Grace",
+    "brew.item.potion.failed": "Failed Potion",
+    "brew.item.potion.glowing": "Potion of Glowing",
+    "brew.item.potion.haste": "Potion of Haste",
+    "brew.item.potion.health_boost": "Potion of Health Boosting",
+    "brew.item.potion.hunger": "Potion of Hunger",
+    "brew.item.potion.levitation": "Potion of Levitation",
+    "brew.item.potion.mining_fatigue": "Potion of Mining Fatigue",
+    "brew.item.potion.nausea": "Potion of Nausea",
+    "brew.item.potion.resistance": "Potion of Resistance",
+    "brew.item.potion.saturation": "Potion of Saturation",
+    "brew.item.potion.hero_of_the_village": "Potion of Village Heroism",
+    "brew.item.potion.wither": "Potion of Withering",
+    "brew.item.settings_book": "Settings",
+    "brew.item.splash_potion.absorption": "Splash Potion of Absorption",
+    "brew.item.splash_potion.bad_luck": "Splash Potion of Bad Luck",
+    "brew.item.splash_potion.bad_omen": "Splash Potion of Bad Omens",
+    "brew.item.splash_potion.blindness": "Splash Potion of Blindness",
+    "brew.item.splash_potion.conduit_power": "Splash Potion of Conduit Power",
+    "brew.item.splash_potion.dolphin_grace": "Splash Potion of Dolphin's Grace",
+    "brew.item.splash_potion.failed": "Failed Splash Potion",
+    "brew.item.splash_potion.glowing": "Splash Potion of Glowing",
+    "brew.item.splash_potion.haste": "Splash Potion of Haste",
+    "brew.item.splash_potion.health_boost": "Splash Potion of Health Boosting",
+    "brew.item.splash_potion.hunger": "Splash Potion of Hunger",
+    "brew.item.splash_potion.levitation": "Splash Potion of Levitation",
+    "brew.item.splash_potion.mining_fatigue": "Splash Potion of Mining Fatigue",
+    "brew.item.splash_potion.nausea": "Splash Potion of Nausea",
+    "brew.item.splash_potion.resistance": "Splash Potion of Resistance",
+    "brew.item.splash_potion.saturation": "Splash Potion of Saturation",
+    "brew.item.splash_potion.hero_of_the_village": "Splash Potion of Village Heroism",
+    "brew.item.splash_potion.wither": "Splash Potion of Withering",
+    "brew.item.tipped_arrow.absorption": "Arrow of Absorption",
+    "brew.item.tipped_arrow.bad_luck": "Arrow of Bad Luck",
+    "brew.item.tipped_arrow.bad_omen": "Arrow of Bad Omens",
+    "brew.item.tipped_arrow.blindness": "Arrow of Blindness",
+    "brew.item.tipped_arrow.conduit_power": "Arrow of Conduit Power",
+    "brew.item.tipped_arrow.dolphin_grace": "Arrow of Dolphin's Grace",
+    "brew.item.tipped_arrow.failed": "Failed Arrow",
+    "brew.item.tipped_arrow.glowing": "Arrow of Glowing",
+    "brew.item.tipped_arrow.haste": "Arrow of Haste",
+    "brew.item.tipped_arrow.health_boost": "Arrow of Health Boosting",
+    "brew.item.tipped_arrow.hunger": "Arrow of Hunger",
+    "brew.item.tipped_arrow.levitation": "Arrow of Levitation",
+    "brew.item.tipped_arrow.mining_fatigue": "Arrow of Mining Fatigue",
+    "brew.item.tipped_arrow.nausea": "Arrow of Nausea",
+    "brew.item.tipped_arrow.resistance": "Arrow of Resistance",
+    "brew.item.tipped_arrow.saturation": "Arrow of Saturation",
+    "brew.item.tipped_arrow.hero_of_the_village": "Arrow of Village Heroism",
+    "brew.item.tipped_arrow.wither": "Arrow of Withering"
+}

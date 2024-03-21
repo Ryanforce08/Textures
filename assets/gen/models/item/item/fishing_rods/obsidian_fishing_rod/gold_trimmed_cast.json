@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "gen:item/item/fishing_rods/obsidian_fishing_rod",
+        "layer1": "gen:item/item/fishing_rods/golden_fishing_rod_overlay"
+    }
+}

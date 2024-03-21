@@ -1,0 +1,60 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/glow_item_frame"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":7150000},"model":""},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        {"predicate":{"custom_model_data":91100001},"model":"gen:farm/item/brew_barrel"},
+        {"predicate":{"custom_model_data":91110000},"model":"gen:farm/item/analyzer/oak"},
+        {"predicate":{"custom_model_data":91110001},"model":"gen:farm/item/analyzer/spruce"},
+        {"predicate":{"custom_model_data":91110002},"model":"gen:farm/item/analyzer/birch"},
+        {"predicate":{"custom_model_data":91110003},"model":"gen:farm/item/analyzer/jungle"},
+        {"predicate":{"custom_model_data":91110004},"model":"gen:farm/item/analyzer/acacia"},
+        {"predicate":{"custom_model_data":91110005},"model":"gen:farm/item/analyzer/dark_oak"},
+        {"predicate":{"custom_model_data":91110006},"model":"gen:farm/item/analyzer/crimson"},
+        {"predicate":{"custom_model_data":91110007},"model":"gen:farm/item/analyzer/warped"},
+        {"predicate":{"custom_model_data":91110008},"model":"gen:farm/item/analyzer/mangrove"},
+        {"predicate":{"custom_model_data":91110100},"model":"gen:farm/item/grass_seeds"},
+        {"predicate":{"custom_model_data":91110101},"model":"gen:farm/item/carrot_seeds"},
+        {"predicate":{"custom_model_data":91110102},"model":"gen:farm/item/potato_seeds"},
+        {"predicate":{"custom_model_data":91110103},"model":"gen:farm/item/sweet_berry_seeds"},
+        {"predicate":{"custom_model_data":91110104},"model":"gen:farm/item/bamboo_seeds"},
+        {"predicate":{"custom_model_data":91110105},"model":"gen:farm/item/tomato_seeds"},
+        {"predicate":{"custom_model_data":91120000},"model":"gen:farm/experimental/item/item_001a"},
+        {"predicate":{"custom_model_data":91200000},"model":"gen:fish/block/angler_workbench"},
+        {"predicate":{"custom_model_data":91110006},"model":"gen:farm/item/corn_seeds"},
+        {"predicate":{"custom_model_data":91110007},"model":"gen:farm/item/grape_seeds"},
+        {"predicate":{"custom_model_data":91110008},"model":"gen:farm/item/lettuce_seeds"},
+        {"predicate":{"custom_model_data":91110009},"model":"gen:farm/item/cucumber_seeds"},
+        {"predicate":{"custom_model_data":91110010},"model":"gen:farm/item/cotton_seeds"},
+        {"predicate":{"custom_model_data":91110011},"model":"gen:farm/item/rice_seeds"}
+    ]
+}
+
+
+
+
+

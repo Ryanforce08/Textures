@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/models/hats/template_villager_hat",
+	"textures": {
+	  "layer0": "gen:item/models/hats/butcher"
+	}
+  }

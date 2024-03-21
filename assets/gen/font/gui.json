@@ -1,0 +1,13 @@
+{
+	"providers": [
+        {
+            "type": "bitmap",
+            "file": "gen:item/gui/misc/test.png",
+            "ascent": 212.1,
+            "height": 276,
+            "chars": [
+                "-"
+            ]
+        }
+	]
+}

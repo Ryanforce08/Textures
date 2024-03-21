@@ -1,0 +1,7 @@
+{
+	"parent": "gen:farm/block/template_countertop_crafter",
+	"textures": {
+	  "planks": "block/warped_planks",
+	  "log": "block/warped_stem"
+	}
+  }

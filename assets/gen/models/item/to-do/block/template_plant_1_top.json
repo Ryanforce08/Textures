@@ -1,0 +1,6 @@
+{
+	"parent": "gen:_null_/block/template_plant_1",
+	"display": {
+		"fixed": {"rotation": [-270, 0, 0],"translation": [0, 0, -15.85],"scale": [2.01, 2.01, 2.01]}
+    }
+}

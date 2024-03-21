@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/gui/container/template_gui",
+	"textures":{
+		"texture":"gen:item/gui/container/recipes"
+	}
+}

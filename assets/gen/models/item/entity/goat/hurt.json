@@ -1,0 +1,14 @@
+{
+	"parent": "gen:item/entity/goat/template_running",
+	"textures": {
+	  "texture_body": "gen:item/entity/goat/body_hurt",
+	  "texture_legs_1": "gen:item/entity/goat/animation_hurt/frame_1",
+	  "texture_legs_2": "gen:item/entity/goat/animation_hurt/frame_2",
+	  "texture_legs_3": "gen:item/entity/goat/animation_hurt/frame_3",
+	  "texture_legs_4": "gen:item/entity/goat/animation_hurt/frame_4",
+	  "texture_legs_5": "gen:item/entity/goat/animation_hurt/frame_5",
+	  "texture_legs_6": "gen:item/entity/goat/animation_hurt/frame_6",
+	  "texture_legs_7": "gen:item/entity/goat/animation_hurt/frame_7",
+	  "texture_legs_8": "gen:item/entity/goat/animation_hurt/frame_8"
+	}
+  }

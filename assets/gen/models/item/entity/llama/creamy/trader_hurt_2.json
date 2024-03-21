@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/entity/llama/template_trader_dead_2",
+	"textures": {
+	  "texture": "gen:item/entity/llama/creamy_hurt"
+	}
+  }

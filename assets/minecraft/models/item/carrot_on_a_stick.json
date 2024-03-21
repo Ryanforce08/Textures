@@ -1,0 +1,25 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":600000},"model":"gen:cmd/item/kit"},
+        {"predicate":{"custom_model_data":600001},"model":"gen:cmd/item/key/copper"},
+        {"predicate":{"custom_model_data":600002},"model":"gen:cmd/item/key/copper_1"},
+        {"predicate":{"custom_model_data":600003},"model":"gen:cmd/item/key/copper_2"},
+        {"predicate":{"custom_model_data":600004},"model":"gen:cmd/item/key/copper_3"},
+        {"predicate":{"custom_model_data":600005},"model":"gen:cmd/item/key/iron"},
+        {"predicate":{"custom_model_data":600006},"model":"gen:cmd/item/key/iron_1"},
+        {"predicate":{"custom_model_data":600007},"model":"gen:cmd/item/key/iron_2"},
+        {"predicate":{"custom_model_data":600008},"model":"gen:cmd/item/key/iron_3"},
+        {"predicate":{"custom_model_data":600009},"model":"gen:cmd/item/key/gold"},
+        {"predicate":{"custom_model_data":600010},"model":"gen:cmd/item/key/gold_1"},
+        {"predicate":{"custom_model_data":600011},"model":"gen:cmd/item/key/gold_2"},
+        {"predicate":{"custom_model_data":600012},"model":"gen:cmd/item/key/gold_3"},
+        {"predicate":{"custom_model_data":600013},"model":"gen:cmd/item/key/creative"},
+        {"predicate":{"custom_model_data":600014},"model":"gen:cmd/item/key/creative_1"},
+        {"predicate":{"custom_model_data":600015},"model":"gen:cmd/item/key/creative_2"},
+        {"predicate":{"custom_model_data":600016},"model":"gen:cmd/item/key/creative_3"}
+    ]
+}

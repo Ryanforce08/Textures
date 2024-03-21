@@ -1,0 +1,6 @@
+{
+	"parent": "gen:item/gui/container/template_gui_overlay",
+	"textures":{
+		"texture":"gen:item/gui/container/agrarians_workbench_overlay"
+	}
+}
