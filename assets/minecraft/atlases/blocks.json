@@ -163,6 +163,11 @@
         {
             "type": "single",
             "resource": "minecraft:hattextures/yankee"
+        },
+        {
+            "type":"single",
+            "resource": "minecraft:hats/safteyglass"
         }
+
     ]
 }
