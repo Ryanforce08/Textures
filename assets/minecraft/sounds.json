@@ -1,0 +1,9 @@
+{
+    "phantom.web_bullet": { "category": "player", "sounds": [ {"name": "web_bullet", "attenuation_distance": 24} ] },
+    "phantom.small_web": { "category": "player", "sounds": [ {"name": "small_web", "attenuation_distance": 24} ] },
+    "phantom.swing": { "category": "player", "sounds": [ {"name": "swing", "attenuation_distance": 48} ] },
+    "phantom.latch": { "category": "player", "sounds": [ {"name": "latch", "attenuation_distance": 48} ] },
+    "phantom.broken_web_shooter": { "category": "player", "sounds": [ {"name": "broken_web_shooter", "attenuation_distance": 16} ] },
+    "phantom.grenade_shoot": { "category": "player", "sounds": [ {"name": "grenade_shoot", "attenuation_distance": 48} ] },
+    "phantom.grenade_explode": { "category": "player", "sounds": [ {"name": "grenade_explode", "attenuation_distance": 150} ] }
+}
